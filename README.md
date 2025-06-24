@@ -29,7 +29,7 @@
 
 ##  UI Preview
 
-<img src="https://your-screenshot-url.com/summarizeit-ui.png" alt="SummarizeIt Screenshot" width="100%"/>
+<img src="SummarizeIt .png" alt="SummarizeIt Screenshot" width="100%"/>
 
 ---
 
