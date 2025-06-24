@@ -77,7 +77,6 @@ def main():
   if uploaded_file is not None:
     if st.button("Summarize"):
       col1, col2 = st.columns(2)
-      # Ensure the 'data' directory exists
       os.makedirs("data", exist_ok=True)
       filepath = "data/"+uploaded_file.name
       with open(filepath, "wb") as temp_file:
